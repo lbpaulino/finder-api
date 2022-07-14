@@ -31,7 +31,7 @@
     "swagger-ui-express": "^4.4.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.18",
+    "nodemon": "^2.0.19",
     "sequelize-cli": "^6.4.1",
     "sucrase": "^3.23.0"
   }

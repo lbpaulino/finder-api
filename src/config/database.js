@@ -3,9 +3,9 @@ require('dotenv/config');
 module.exports = {
   dialect: 'postgres',
   port: 5432,
-  host: 'bd-prod.postgres.database.azure.com',
-  username: 'dbprod@bd-prod',
-  password: 'g9NkmM#e78t1',
+  host: 'pstgrs-prd.postgres.database.azure.com',
+  username: 'pstgrsprd',
+  password: 'lixo_123',
   database: 'postgres',
   define: {
     timeStamps: true,
